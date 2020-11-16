@@ -8,7 +8,7 @@ These questions are designed to test your knowledge on C# language syntax, probl
 
 This test will require the .NET Core 3.0 update and an IDE capable of compiling .NET Core code, such as Visual Studio.
 
-Clone this repository to your local drive and open the solution with the IDE of your choice.  Your goal is to have all Unit Tests (MSTest) pass.  You will not need to change any of the Unit Tests in order to accomplish this, you will only need to modify the underlying code referenced in the Unit Tests.
+Clone this repository to your local drive and create a new branch for your changes.  Open the solution using the IDE of your choice (or command line if you're that brave).  Your goal is to have all Unit Tests (MSTest) pass.  You will not need to change any of the Unit Tests in order to accomplish this, you will only need to modify the underlying code referenced in the Unit Tests.
 
 If you have any questions or concerns, please reach out to me at nathan.rose@flexential.com
 
